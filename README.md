@@ -1,6 +1,12 @@
 # USAII-2026
 Hackathon
 
+# Structura Branch-urilor
+
+Branch-ul va contine numele issue-ului si optional o scurta descriere
+Exemplu:
+Hello-World-descriere
+
 **Exemplu creeare branch:**
 
 1. git fetch > comanda asta va actualizeaza folder **local** de git cu tot ce este nou in github **remote**
